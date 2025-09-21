@@ -1,5 +1,11 @@
 # NestJS + Prisma + JWT Project Documentation
 
+# RUN THIS COMMAND FOR DOCKER  
+
+docker build -t nestjs-app .
+docker run -p 3000:3000 --env-file .env
+
+
 ## ⚙️ Installation & Setup
 
 ### 1. Install NestJS CLI
