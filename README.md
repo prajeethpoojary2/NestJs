@@ -136,6 +136,12 @@ npm install @types/passport-jwt @types/bcrypt -D
 * **Access Token** → Short-lived token (7 days in this project).
 * **Refresh Token** → Used to generate new access tokens (15 minutes expiry here).
 
+<img width="1564" height="862" alt="Screenshot 2025-09-21 151330" src="https://github.com/user-attachments/assets/b16f7d58-83fd-4b36-922e-ba3a8c3443b6" />
+
+
+<img width="1315" height="799" alt="Screenshot 2025-09-21 151400" src="https://github.com/user-attachments/assets/d6166dd2-2e85-4cac-ae2b-a6379dd7b4af" />
+
+
 * **For Login Controller user body (POSTMAN)**  
 {   
     "email":"email",
